@@ -1,4 +1,1 @@
-git is a version control system.
-git is a free software
-add a new text
-123
+create a new branch is quick.
